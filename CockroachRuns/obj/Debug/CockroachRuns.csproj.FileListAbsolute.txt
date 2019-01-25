@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\CockroachRuns\CockroachRuns\bin\Debug\CockroachRuns.exe.config
+C:\Users\Asus\source\repos\CockroachRuns\CockroachRuns\bin\Debug\CockroachRuns.exe
+C:\Users\Asus\source\repos\CockroachRuns\CockroachRuns\bin\Debug\CockroachRuns.pdb
+C:\Users\Asus\source\repos\CockroachRuns\CockroachRuns\obj\Debug\CockroachRuns.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\CockroachRuns\CockroachRuns\obj\Debug\CockroachRuns.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CockroachRuns\CockroachRuns\obj\Debug\CockroachRuns.exe
+C:\Users\Asus\source\repos\CockroachRuns\CockroachRuns\obj\Debug\CockroachRuns.pdb
